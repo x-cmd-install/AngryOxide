@@ -2,13 +2,13 @@ about:
   description: "802.11 Attack Tool"
   license: GPL-3.0
   homepage: 
-  head: 6973e66
+  head: 811d772
   archived: false
   latestVersion: "v0.9.2"
-  collectedAt: 2026-09-08T02:35:24Z
+  collectedAt: 2026-09-08T04:57:54Z
 timeline:
   created: 2023-10-22
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
   lastRelease: 2025-12-20
 popularity:
   star: 1952
@@ -31,7 +31,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 25
+    commit: 26
   last60d:
     since: 2026-07-10
     release: 0
@@ -39,7 +39,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 1
-    commit: 55
+    commit: 56
   last90d:
     since: 2026-06-10
     release: 0
@@ -47,7 +47,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 1
-    commit: 85
+    commit: 86
   last180d:
     since: 2026-03-12
     release: 0
@@ -55,7 +55,7 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 2
-    commit: 173
+    commit: 174
   last360d:
     since: 2025-09-13
     release: 1
@@ -63,7 +63,7 @@ recent:
     openPR: 2
     closedIssue: 1
     openIssue: 5
-    commit: 359
+    commit: 360
   last720d:
     since: 2024-09-18
     release: 2
@@ -71,17 +71,17 @@ recent:
     openPR: 2
     closedIssue: 6
     openIssue: 16
-    commit: 720
+    commit: 721
 total:
   release: 35
   mergedPR: 18
   openPR: 2
   closedIssue: 31
   openIssue: 17
-  commit: 1037
+  commit: 1038
 ---
 path: /home/runner/.x-repo/github.com/Ragnt/AngryOxide
-collectedAt: 2026-09-08T02:35:34Z
+collectedAt: 2026-09-08T04:58:03Z
 loc:
   Rust:
     code: 13790
