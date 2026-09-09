@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2459105,
       "digest": "sha256:a8cbeb244f0a15a16332122a6f3f60fbb8ee7a4ab89b3628f76368c99a49411c",
-      "download_count": 726,
+      "download_count": 727,
       "created_at": "2025-12-20T22:12:11Z",
       "updated_at": "2025-12-20T22:12:11Z",
       "browser_download_url": "https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2534090,
       "digest": "sha256:c230b8cefdf809459adf211caabd060dac904b3c525d12702765fb9c7fe3094a",
-      "download_count": 1803,
+      "download_count": 1808,
       "created_at": "2025-12-20T22:11:48Z",
       "updated_at": "2025-12-20T22:11:48Z",
       "browser_download_url": "https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64.tar.gz"
