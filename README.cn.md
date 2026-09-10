@@ -4,7 +4,7 @@
 
 802.11 Attack Tool
 
-![AngryOxide](https://repo.x-cmd.io/AngryOxide.svg)
+![AngryOxide](https://repo.x-cmd.io/AngryOxide.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,17 @@ x install AngryOxide
 - **最新版本**: `v0.9.2` (2025-12-20)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 6 个
-- **发布时间**: 2025-12-20T22:16:26Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [angryoxide-linux-aarch64-gnu.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-gnu.tar.gz) | 2.3 MiB | `native/linux/arm64/glibc` |
+| [angryoxide-linux-aarch64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-musl.tar.gz) | 2.4 MiB | `native/linux/arm64/musl` |
+| [angryoxide-linux-arm-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-arm-musl.tar.gz) | 2.4 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-armv7hf-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-armv7hf-musl.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-x86_64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
+| [angryoxide-linux-x86_64.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64.tar.gz) | 2.4 MiB | `native/linux/x64` |
 
 ## 流行度
 
@@ -61,4 +71,4 @@ AngryOxide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:10:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:04:08Z._

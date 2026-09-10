@@ -22,7 +22,17 @@ x install AngryOxide
 - **Latest**: `v0.9.2` (2025-12-20)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 6
-- **Published**: 2025-12-20T22:16:26Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [angryoxide-linux-aarch64-gnu.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-gnu.tar.gz) | 2.3 MiB | `native/linux/arm64/glibc` |
+| [angryoxide-linux-aarch64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-musl.tar.gz) | 2.4 MiB | `native/linux/arm64/musl` |
+| [angryoxide-linux-arm-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-arm-musl.tar.gz) | 2.4 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-armv7hf-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-armv7hf-musl.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-x86_64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
+| [angryoxide-linux-x86_64.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64.tar.gz) | 2.4 MiB | `native/linux/x64` |
 
 ## Popularity
 
@@ -57,8 +67,8 @@ Total: **14,143** lines of code across **67** files in the top 5 languages.
 Install metadata for AngryOxide lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `AngryOxide` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/AngryOxide.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/AngryOxide.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:10:12Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:08Z._
