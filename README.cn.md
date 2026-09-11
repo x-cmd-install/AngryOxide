@@ -12,6 +12,18 @@
 x install AngryOxide
 ```
 
+## 代码洞察
+
+合计: **14,143** 行代码（覆盖前 5 种语言、共 **67** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 13,790 | 733 | 2,017 | 58 |
+| Toml | 217 | 2 | 23 | 6 |
+| Sh | 74 | 1 | 7 | 1 |
+| Makefile | 62 | 0 | 11 | 1 |
+| Markdown | 0 | 124 | 46 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/Ragnt/AngryOxide>
@@ -22,17 +34,6 @@ x install AngryOxide
 - **最新版本**: `v0.9.2` (2025-12-20)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 6 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [angryoxide-linux-aarch64-gnu.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-gnu.tar.gz) | 2.3 MiB | `native/linux/arm64/glibc` |
-| [angryoxide-linux-aarch64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-musl.tar.gz) | 2.4 MiB | `native/linux/arm64/musl` |
-| [angryoxide-linux-arm-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-arm-musl.tar.gz) | 2.4 MiB | `native/linux/arm/musl` |
-| [angryoxide-linux-armv7hf-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-armv7hf-musl.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
-| [angryoxide-linux-x86_64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
-| [angryoxide-linux-x86_64.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64.tar.gz) | 2.4 MiB | `native/linux/x64` |
 
 ## 流行度
 
@@ -46,21 +47,23 @@ x install AngryOxide
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 28 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 1 | 88 |
-| 360d | 2025-09-15 | 1 | 0 | 2 | 1 | 5 | 362 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 28 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 1 | 58 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 1 | 88 |
+| last180d | 2026-03-15 | 0 | 0 | 2 | 0 | 2 | 176 |
+| 360d | 2025-09-16 | 1 | 0 | 2 | 1 | 5 | 362 |
+| last720d | 2024-09-21 | 2 | 3 | 2 | 6 | 16 | 723 |
 
-## 代码规模
+## Release 资产
 
-合计: **14,143** 行代码（覆盖前 5 种语言、共 **67** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 13,790 | 733 | 2,017 | 58 |
-| Toml | 217 | 2 | 23 | 6 |
-| Sh | 74 | 1 | 7 | 1 |
-| Makefile | 62 | 0 | 11 | 1 |
-| Markdown | 0 | 124 | 46 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [angryoxide-linux-aarch64-gnu.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-gnu.tar.gz) | 2.3 MiB | `native/linux/arm64/glibc` |
+| [angryoxide-linux-aarch64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-musl.tar.gz) | 2.4 MiB | `native/linux/arm64/musl` |
+| [angryoxide-linux-arm-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-arm-musl.tar.gz) | 2.4 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-armv7hf-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-armv7hf-musl.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-x86_64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
+| [angryoxide-linux-x86_64.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64.tar.gz) | 2.4 MiB | `native/linux/x64` |
 
 ## 改进这些数据
 
@@ -71,4 +74,4 @@ AngryOxide 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T17:04:08Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:02:40Z._

@@ -12,6 +12,18 @@
 x install AngryOxide
 ```
 
+## Code insight
+
+Total: **14,143** lines of code across **67** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 13,790 | 733 | 2,017 | 58 |
+| Toml | 217 | 2 | 23 | 6 |
+| Sh | 74 | 1 | 7 | 1 |
+| Makefile | 62 | 0 | 11 | 1 |
+| Markdown | 0 | 124 | 46 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Ragnt/AngryOxide>
@@ -22,17 +34,6 @@ x install AngryOxide
 - **Latest**: `v0.9.2` (2025-12-20)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 6
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [angryoxide-linux-aarch64-gnu.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-gnu.tar.gz) | 2.3 MiB | `native/linux/arm64/glibc` |
-| [angryoxide-linux-aarch64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-musl.tar.gz) | 2.4 MiB | `native/linux/arm64/musl` |
-| [angryoxide-linux-arm-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-arm-musl.tar.gz) | 2.4 MiB | `native/linux/arm/musl` |
-| [angryoxide-linux-armv7hf-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-armv7hf-musl.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
-| [angryoxide-linux-x86_64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
-| [angryoxide-linux-x86_64.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64.tar.gz) | 2.4 MiB | `native/linux/x64` |
 
 ## Popularity
 
@@ -46,21 +47,23 @@ x install AngryOxide
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 28 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 1 | 88 |
-| 360d | 2025-09-15 | 1 | 0 | 2 | 1 | 5 | 362 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 28 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 1 | 58 |
+| 90d | 2026-06-13 | 0 | 0 | 1 | 0 | 1 | 88 |
+| last180d | 2026-03-15 | 0 | 0 | 2 | 0 | 2 | 176 |
+| 360d | 2025-09-16 | 1 | 0 | 2 | 1 | 5 | 362 |
+| last720d | 2024-09-21 | 2 | 3 | 2 | 6 | 16 | 723 |
 
-## Code size
+## Release assets
 
-Total: **14,143** lines of code across **67** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 13,790 | 733 | 2,017 | 58 |
-| Toml | 217 | 2 | 23 | 6 |
-| Sh | 74 | 1 | 7 | 1 |
-| Makefile | 62 | 0 | 11 | 1 |
-| Markdown | 0 | 124 | 46 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [angryoxide-linux-aarch64-gnu.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-gnu.tar.gz) | 2.3 MiB | `native/linux/arm64/glibc` |
+| [angryoxide-linux-aarch64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-aarch64-musl.tar.gz) | 2.4 MiB | `native/linux/arm64/musl` |
+| [angryoxide-linux-arm-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-arm-musl.tar.gz) | 2.4 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-armv7hf-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-armv7hf-musl.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
+| [angryoxide-linux-x86_64-musl.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
+| [angryoxide-linux-x86_64.tar.gz](https://github.com/Ragnt/AngryOxide/releases/download/v0.9.2/angryoxide-linux-x86_64.tar.gz) | 2.4 MiB | `native/linux/x64` |
 
 ## Improve this data
 
@@ -71,4 +74,4 @@ Install metadata for AngryOxide lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:02:38Z._
