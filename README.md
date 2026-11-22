@@ -32,27 +32,27 @@ Total: **14,143** lines of code across **67** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.2` (2025-12-20)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,018 · **Forks**: 136 · **Open issues**: 49 · **Contributors**: 7
+- **Stars**: 2,020 · **Forks**: 136 · **Open issues**: 49 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 18 · **Open PRs**: 5 · **Closed issues**: 31 · **Open issues**: 18 · **Commits**: 1111
+- **Releases**: 35 · **Merged PRs**: 18 · **Open PRs**: 5 · **Closed issues**: 31 · **Open issues**: 18 · **Commits**: 1112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 4 | 0 | 1 | 29 |
-| last60d | 2026-09-22 | 0 | 0 | 4 | 0 | 1 | 59 |
-| 90d | 2026-08-23 | 0 | 0 | 4 | 0 | 1 | 89 |
-| last180d | 2026-05-25 | 0 | 0 | 4 | 0 | 3 | 178 |
-| 360d | 2025-11-26 | 1 | 0 | 5 | 1 | 6 | 360 |
-| last720d | 2024-12-01 | 2 | 3 | 5 | 6 | 15 | 728 |
+| 30d | 2026-10-23 | 0 | 0 | 4 | 0 | 1 | 23 |
+| last60d | 2026-09-23 | 0 | 0 | 4 | 0 | 1 | 53 |
+| 90d | 2026-08-24 | 0 | 0 | 4 | 0 | 1 | 83 |
+| last180d | 2026-05-26 | 0 | 0 | 4 | 0 | 3 | 172 |
+| 360d | 2025-11-27 | 1 | 0 | 5 | 1 | 6 | 354 |
+| last720d | 2024-12-02 | 2 | 3 | 5 | 6 | 15 | 728 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for AngryOxide lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:57:00Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:41:09Z._
